@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+    background-color: black;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.first {
+    display: none;
+}
+
+/* #pacmanAnimation {
+
+} */
